@@ -1,0 +1,109 @@
+
+BODY
+{
+    COLOR: darkblue;
+    BACKGROUND-REPEAT: repeat;
+    FONT-FAMILY: Verdana, Arial, Geneva, Helvetica, sans-serif;	
+    BACKGROUND-COLOR: white;
+	font-size: 18pt;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 1.60pc;
+    TEXT-DECORATION: none;
+}
+body {
+	background-image: url(Image_Files/parchmnt.jpg);
+}
+.style1 {color: #990333; line-height: 1.60pc;}
+.style2 {font-size: 10pt; line-height: 1.35pc; font-weight: bolder;}
+.style3 {color: #990333; line-height: 1.35pc; font-size: 10pt; font-weight: bolder;}
+.style4  {color: #0000FF; font-size: 10pt; line-height: 1.35pc; font-weight: bolder;}
+.style5 {color: darkblue; line-height: 1.35pc; font-size: 10pt; font-weight: bolder;}
+.style6 {color: darkcyan; line-height: 1.35pc; font-weight: bold; font-size: 10pt;}
+.style7 {color: #0000FF; line-height: 1.60pc;  
+    }
+
+
+A:link
+{
+    FONT-WEIGHT: bold;
+    COLOR: darkcyan;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none;
+	
+}
+
+A:active
+{
+    FONT-WEIGHT: bold;
+    COLOR: darkcyan;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none;
+}
+A:visited
+{
+    FONT-WEIGHT: bold;
+    COLOR: darkcyan;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none;
+	
+	
+}
+A:hover 
+{
+    FONT-WEIGHT: bold;
+    COLOR: darkcyan;
+    FONT-STYLE: underline;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: silver;
+    TEXT-DECORATION: none;
+}
+P
+{
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	line-height: 1.60pc;
+}
+UL
+{
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+H1
+{
+    FONT-SIZE: 20pt;
+    COLOR: darkblue;
+	line-height: 1.60pc;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none;
+}
+H2
+{
+    FONT-SIZE: medium;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none;
+}
+H3
+{
+    FONT-SIZE: small;
+    COLOR: midnightblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    
+}
+ADDRESS
+{
+    FONT-SIZE: xx-small;
+    COLOR: darkblue;
+    FONT-STYLE: italic;
+    TEXT-ALIGN: center;
+}
+BLOCKQUOTE
+{
+    FONT-WEIGHT: bolder;
+    TEXT-ALIGN: justify;
+}
+

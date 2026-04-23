@@ -1,0 +1,130 @@
+.centeredheading {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 13pt;
+	font-style: normal;
+	color: #0000FF;
+	
+}
+
+.georgefox {
+	font-style: italic;
+	font-weight: normal;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13pt;
+}
+.bodystyle {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14pt;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1.50pc;
+	color: #0000FF;
+}
+.comments {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1.15pc;
+	
+}
+/* 97 is for the pale blue clicking messages at top of each page*/
+.style97 { 
+    font-size: 13pt; 
+    color: #0066FF;
+	 font-style: normal;
+	font-weight: normal;
+	line-height: 1.15pc; 
+}
+.prosestyle {
+
+	font-family: "Book Antiqua";
+	font-size: 16pt;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	color: #0000FF;
+}
+.journal {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13pt;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1.35pc;
+	color: #0000FF;
+	
+}
+.style116 {
+/*black8
+font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13pt;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1.35pc;*/
+	color: #000000;
+}
+
+.style22 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	line-height: 1.45pc;
+	font-weight: bold;
+}
+.style44 {color:#990333;}
+.style13 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13pt;
+	line-height: 1.35pc;
+	font-weight: bold;
+}
+.style15 {
+            font-size: 13pt
+			font-family: Georgia, "Times New Roman", Times, serif;
+			font-weight: bold;
+			line-height: 1.35pc;
+	        
+}
+.style18 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14pt;
+	font-weight: bold;
+	line-height: 1.45pc;
+	
+}
+.style49 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16pt;
+	line-height: 1.6pc;
+	font-weight: bold;
+}
+.style92 {font-size: 36pt; line-height: 2.3pc}
+.style93 {font-size: 24pt; line-height: 2.2pc}
+.style56 {font-size: 13pt; font-weight: normal; line-height: 1.35pc; color: #0000FF; font-family: Georgia, "Times New Roman", Times, serif;}<br />
+.style95 {font-size: 16pt; font-weight: normal;l ine-height: 1.5pc;}
+.style96 {font-size: 19pt; line-height: 1.9pc;}
+.style45 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-weight: bold;
+	line-height: 1.6pc;
+}
+.style39 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18pt;
+	font-weight: bold;
+	line-height: 1.8pc;
+}
+.style42 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+	font-weight: bold;
+	line-height: 1.7pc;
+}
+.style1 {
+	font-size: 20pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	line-height: 2.1pc;
+}
